@@ -1,6 +1,6 @@
 # Aus/NZ osu!standard Tournament 8 - Summer
 
-![ANZT 8S logo](img/logo.png)
+![ANZT 8S logo](img/logo.jpg)
 
 The **Aus/NZ osu!standard Tournament 8 - Summer** (***ANZT 8S***) was a 1v1 double-elimination osu! tournament with a two week, double elimination group stage for Australian and New Zealand players hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102) and ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634). It was the eleventh instalment of the Aus/NZ tourneys.
 
