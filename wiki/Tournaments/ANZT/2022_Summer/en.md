@@ -1,4 +1,4 @@
-# Aus/NZ osu!standard Tournament 8 - Summer
+# Aus/NZ osu!standard Tournament 9 - Summer
 
 ![ANZT 8S logo](img/logo.png)
 
